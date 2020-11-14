@@ -1,0 +1,31 @@
+body{
+  background-image: url('image.webp');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+ background-size: cover;
+ background-size: 100% 100%;
+}
+h1
+{
+  color:#17a2b8;
+  text-align: center;
+}
+label{
+  color: #343a40;
+}
+.logo{
+    position: relative;
+    top: -60px; /* This will move it 20px up */
+    left: 55px; /* This will move it 20px to the right */
+}
+.button_style {
+  background-color:  #6c757d;
+  border: none;
+  color: white;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 12px;
+}
